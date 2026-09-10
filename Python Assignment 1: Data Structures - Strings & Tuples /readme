@@ -1,1 +1,44 @@
+Python Strings & Tuples
 
+This repository contains a Python practice assignment covering Strings and Tuples using Jupyter Notebook.
+
+📌 Topics Covered
+1. String Concatenation
+Taking a name as input from the user
+Concatenating two strings
+Displaying the final message
+2. String Slicing and Indexing
+
+The assignment demonstrates how to:
+
+Access the first character
+Access the last character
+Print the first 5 characters
+Print the last 11 characters
+Reverse a string
+Extract the word "Python" using slicing
+3. String Methods
+
+The following Python string methods are practiced:
+
+upper()
+lower()
+capitalize()
+count()
+replace()
+4. Tuples
+
+The assignment demonstrates:
+
+Creating tuples
+Concatenating two tuples
+Repeating tuple elements
+Accessing individual elements
+Accessing elements using slicing
+🛠️ Technologies Used
+Python
+Jupyter Notebook
+
+🎯 Purpose
+
+The purpose of this assignment is to understand and practice basic Python concepts related to string manipulation, indexing, slicing, string methods, and tuples.
